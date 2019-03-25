@@ -1,0 +1,56 @@
+Genbank file
+
+LOCUS       AQ251347      669 bp    DNA             GSS       07-OCT-1998
+DEFINITION  F25D1-T7 IGF Arabidopsis thaliana genomic clone F25D1, genomic survey sequence.
+ACCESSION   AQ251347
+NID         g3704413
+VERSION     AQ251347.1  GI:3704413
+KEYWORDS    GSS.
+SOURCE      thale cress.
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Charophyta/Embryophyta group;
+            Embryophyta; Tracheophyta; euphyllophytes; Spermatophyta;
+            Magnoliophyta; eudicotyledons; Rosidae; Capparales; Brassicaceae;
+            Arabidopsis.
+REFERENCE   1  (bases 1 to 669)
+  AUTHORS   Feng,J., Dewar,K., Buehler,E., Kim,C., Li,Y., Shinn,P., Sun,H. and
+            Ecker,J.
+  TITLE     BAC End Sequences at ATGC
+  JOURNAL   Unpublished (1997)
+COMMENT     
+            Contact: Ecker J.
+            Arabidopsis Thaliana Genome Center
+            University of Pennsylvania
+            Dept. of Biology, University of Pennsylvania, Philadelphia, PA
+            19104
+            Tel: 215-898-9384
+            Fax: 215-898-8780
+            Email: jecker@atgenome.bio.upenn.edu
+            Seq primer: T7
+            Class: BAC ends.
+FEATURES             Location/Qualifiers
+     source          1..669
+                     /organism="Arabidopsis thaliana"
+                     /strain="Columbia"
+                     /note="Vector: BeloBACII; Site_1: EcoRI; Site_2: EcoRI;
+                     Produced by Thomas Altmann"
+                     /db_xref="taxon:3702"
+                     /clone="F25D1"
+                     /clone_lib="IGF"
+                     /sex="hermaphrodite"
+BASE COUNT      148 a    172 c    161 g    180 t      8 others
+ORIGIN      
+        1 tgancggccg tacctttatg gtccatgtcc gattcttacc cnacttttcc cannnttacg
+       61 cacaaccaac cccnctactt cttacccact attgattgat tggaaaagag ctctctgctt
+      121 tatcttatct ttggtcttct atctctgctg gagcgtcaca ttctttcttt ctttccgtcg
+      181 actcagttta gtggaaaatc cgtggggatc attggtctag gtagaattgg gactgccatc
+      241 gcaaagaggg ctgaagcctt tagctgccca atcaattact actcaagaac cattaagcct
+      301 gatgtcgcct acaagtatta tccgacggtg gttgaccttg ctcaaaactc agacatcctc
+      361 gtcgtcgcat gcccgttgac cgagcagacc agacacattg tggaccggca ggtcatggat
+      421 gcattaggag ctaagggcgt cctcataaac attggccgtg gaccacatgt tgatgagcaa
+      481 gagcttatta aagctctaac agaaggccgc ctangtgggg ctgcccttga tgtgtttgag
+      541 caggagcctc acgtgcccga ggagctcttt ggccttgaga atgtagttct cctccctcac
+      601 gttgggagtg gcactgtgga aacacggaat gccatggccg atcttgncgg gggtaacttg
+      661 taagcgccg
+//
+
